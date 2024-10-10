@@ -41,3 +41,5 @@ You’ll need to have the following installed on your local machine:
    ```bash
    git clone https://github.com/super-mogger/invitation-tracker_1.git
    cd invitation-tracker_1
+2. **Install Dependencies**:
+   
