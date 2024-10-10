@@ -42,4 +42,30 @@ You’ll need to have the following installed on your local machine:
    git clone https://github.com/super-mogger/invitation-tracker_1.git
    cd invitation-tracker_1
 2. **Install Dependencies**:
-   
+   ```bash
+   npm install
+3. **Set Up Environment Variables**: Create a .env file in the root directory and add the following:
+   ```makefile
+   DB_URI=mongodb://localhost:27017/invitation_tracker
+   JWT_SECRET=your_jwt_secret
+   PORT=5000
+4. **Run the Application**:
+   ```bash
+   npm start
+5. **Open in Browser**: Open your browser and navigate to http://localhost:5000. Prepare for the magic to happen!
+
+## Contributing
+-We welcome contributions from the community! To get started:
+
+1. Fork the repository (it’s like borrowing a book, but without the overdue fines).
+2. Create a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b feature-name
+3. Make your changes and commit them with a descriptive message—make it sound exciting!
+4. Push to your branch:
+   ```git push origin feature-name
+5. Create a Pull Request (PR) against the main branch of the repository. Your code deserves to shine!
+### Good First Issues
+If you are new to contributing, check out our good first issues to get started. We’ve labeled beginner-friendly issues to make it easier to jump in! No pressure, but you could be the hero we didn’t know we needed!
+
+For more details, see our CONTRIBUTING.md.
