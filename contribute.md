@@ -36,8 +36,8 @@ First off, thank you for considering contributing to the **Invitation Tracker**!
    
 ### Step 6: Create a Pull Request
 
-1. Go to the original repository and click on the “Pull Requests” tab.
-2. Click on “New Pull Request,” select your branch, and create the PR. Add a description of your changes, and let the magic happen! ✨
+7. Go to the original repository and click on the “Pull Requests” tab.
+8. Click on “New Pull Request,” select your branch, and create the PR. Add a description of your changes, and let the magic happen! ✨
 
 ### Tips for a Successful Contribution
 
