@@ -55,7 +55,7 @@ You’ll need to have the following installed on your local machine:
 5. **Open in Browser**: Open your browser and navigate to http://localhost:5000. Prepare for the magic to happen!
 
 ## Contributing
--We welcome contributions from the community! To get started:
+- We welcome contributions from the community! To get started:
 
 1. Fork the repository (it’s like borrowing a book, but without the overdue fines).
 2. Create a new branch for your feature or bug fix:
@@ -66,6 +66,11 @@ You’ll need to have the following installed on your local machine:
    ```git push origin feature-name
 5. Create a Pull Request (PR) against the main branch of the repository. Your code deserves to shine!
 ### Good First Issues
-If you are new to contributing, check out our good first issues to get started. We’ve labeled beginner-friendly issues to make it easier to jump in! No pressure, but you could be the hero we didn’t know we needed!
+- If you are new to contributing, check out our good first issues to get started. We’ve labeled beginner-friendly issues to make it easier to jump in! No pressure, but you could be the hero we didn’t know we needed!
 
-For more details, see our CONTRIBUTING.md.
+- For more details, see our CONTRIBUTING.md.
+## Community
+- Join our open source community at [Open Source]([https://www.postgresql.org/](https://chat.whatsapp.com/ED1XwwRDD4d9t8WHMEhjTH)) to discuss project features, improvements, and more. You can also follow us on GitHub to stay updated on new releases and events. We promise not to spam you—unless it’s with good vibes!
+
+## License
+- This project is licensed under the MIT License - see the LICENSE file for details. Don’t worry, it’s less complicated than understanding a cat’s mood!
